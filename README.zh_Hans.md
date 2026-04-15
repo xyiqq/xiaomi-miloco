@@ -1,4 +1,4 @@
-# Xiaomi Miloco (xyiqq Fork)
+# Xiaomi Miloco (大傻 Fork)
 
 这是一个面向自托管部署的 Xiaomi Miloco fork。
 
@@ -89,8 +89,8 @@ bash scripts/install.sh
 
 ## 反馈与讨论
 
-- Issues：[xyiqq/xiaomi-miloco issues](https://github.com/xyiqq/xiaomi-miloco/issues)
-- Discussions：[xyiqq/xiaomi-miloco discussions](https://github.com/xyiqq/xiaomi-miloco/discussions)
+- Issues：[大傻/xiaomi-miloco issues](https://github.com/xyiqq/xiaomi-miloco/issues)
+- Discussions：[大傻/xiaomi-miloco discussions](https://github.com/xyiqq/xiaomi-miloco/discussions)
 
 ## 许可证
 

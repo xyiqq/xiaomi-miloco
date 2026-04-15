@@ -1,4 +1,4 @@
-# Xiaomi Miloco (xyiqq Fork)
+# Xiaomi Miloco (大傻 Fork)
 
 A deployment-focused Xiaomi Miloco fork for self-hosted smart home assistants.
 
@@ -9,7 +9,7 @@ from this repository instead of the upstream repository.
 
 <div align="center">
 
-English | [Simplified Chinese](README.zh_Hans.md)
+English | [简体中文](README.zh_Hans.md)
 
 </div>
 
@@ -91,8 +91,8 @@ If you need the upstream project itself, see:
 
 ## Support
 
-- Issues: [xyiqq/xiaomi-miloco issues](https://github.com/xyiqq/xiaomi-miloco/issues)
-- Discussions: [xyiqq/xiaomi-miloco discussions](https://github.com/xyiqq/xiaomi-miloco/discussions)
+- Issues: [大傻/xiaomi-miloco issues](https://github.com/xyiqq/xiaomi-miloco/issues)
+- Discussions: [大傻/xiaomi-miloco discussions](https://github.com/xyiqq/xiaomi-miloco/discussions)
 
 ## License
 
