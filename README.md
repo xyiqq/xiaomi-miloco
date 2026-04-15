@@ -21,6 +21,12 @@ English | [简体中文](README.zh_Hans.md)
   - Includes device hide/restore, search, area grouping, and area bulk selection UI.
   - Includes camera UI fixes such as 16:9 fullscreen and inline RTSP management.
 
+See also:
+
+- [Release notes](https://github.com/xyiqq/xiaomi-miloco/releases/tag/v0.0.5-fork)
+- [Changelog](CHANGELOG.md)
+- [Deployment Notes](docs/deployment/README.md)
+
 ## Upstream News
 
 - **[2026-02] v0.1.7 Released**: Adds Rockchip MPP+RGA hardware acceleration for camera decoding. ([Blog](https://blog.csdn.net/h893529689/article/details/157840764?spm=1001.2014.3001.5502))
@@ -93,6 +99,10 @@ For source code installation steps, please refer to the [Development Guide](docs
 ## Usage Documentation
 
 Please refer to the [Usage Documentation](docs/usage/README.md).
+
+## Changelog
+
+Please refer to [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 

@@ -21,6 +21,12 @@
   - 纳入了设备隐藏/恢复、搜索、按区域分组、区域批量选择界面。
   - 纳入了摄像头 16:9 全屏显示和 RTSP 内联管理修复。
 
+可配合查看：
+
+- [Release 说明](https://github.com/xyiqq/xiaomi-miloco/releases/tag/v0.0.5-fork)
+- [更新日志](CHANGELOG.zh_Hans.md)
+- [部署说明](docs/deployment/README.md)
+
 ## 上游动态
 
 - **[2026-02] v0.1.7 发布**：新增 Rockchip MPP+RGA 硬件加速，用于摄像头解码。（[博客](https://blog.csdn.net/h893529689/article/details/157840764?spm=1001.2014.3001.5502)）
@@ -93,6 +99,10 @@ bash scripts/install.sh
 ## 使用教程文档
 
 请参考 [使用文档](docs/usage/README_zh_Hans.md)。
+
+## 更新日志
+
+请参考 [CHANGELOG.zh_Hans.md](CHANGELOG.zh_Hans.md)。
 
 ## 贡献指南
 
